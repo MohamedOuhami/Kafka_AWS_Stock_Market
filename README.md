@@ -107,10 +107,6 @@ The architecture of the project is as follows:
 
 The **Kafka AWS Stock Market** project effectively demonstrates how to build a real-time data pipeline using Apache Kafka and AWS services. This setup allows for scalable data processing and analytics, providing valuable insights into stock market data.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Apache Kafka
